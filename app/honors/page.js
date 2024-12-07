@@ -101,7 +101,7 @@ export default function Honors() {
                 >
                   {years.map(year => (
                     <option key={year} value={year}>
-                      {year === 'all' ? 'All Years' : year}
+                      {year === '&apos;all&apos;' ? '&apos;All Years&apos;' : year}
                     </option>
                   ))}
                 </select>
@@ -115,7 +115,7 @@ export default function Honors() {
                 >
                   {categories.map(category => (
                     <option key={category} value={category}>
-                      {category === 'all' ? 'All Categories' : category}
+                      {category === '&apos;all&apos;' ? '&apos;All Categories&apos;' : category}
                     </option>
                   ))}
                 </select>

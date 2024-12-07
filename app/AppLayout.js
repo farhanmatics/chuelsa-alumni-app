@@ -10,7 +10,7 @@ export default function AppLayout({ children }) {
   return (
     <div className="flex min-h-screen bg-gray-50">
       {/* Mobile Header */}
-      <div className="lg:hidden fixed top-0 left-0 right-0 h-16 bg-white shadow-md z-50 flex justify-between items-center px-4 z-10">
+      <div className="lg:hidden fixed top-0 left-0 right-0 h-16 bg-white shadow-md flex justify-between items-center px-4 z-10">
         <h1 className="text-xl font-bold text-blue-900">CHUELSA</h1>
         <button 
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}

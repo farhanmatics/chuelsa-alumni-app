@@ -33,7 +33,7 @@ export default function Home() {
             </button>
           </div>
           <p className="text-gray-600">
-            Chittagong University Ex-Law Students' Association [CUELSA] is an organization for the ex students of law who have passed at least their hons' course from the law faculty of Chittagong University.
+            Chittagong University Ex-Law Students&apos; Association [CUELSA] is an organization for the ex students of law who have passed at least their hons&apos; course from the law faculty of Chittagong University.
             It is our pleasure to inform you that the first initiative for the formation of an Association was taken on October 17, 2006 where an Iftar party was arranged at the Hilltop Restaurant,Court Building premise,Chittagong. Representatives from the first ten batches of the University attend the party.It was the collective decision of all the participants to form an Association.
           </p>
         </div>

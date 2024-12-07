@@ -11,7 +11,7 @@ export default function About() {
           {/* Header Section */}
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-blue-900 mb-4">About CUELSA</h1>
-            <p className="text-lg text-gray-600">Chittagong University Environmental Law Students' Association</p>
+            <p className="text-lg text-gray-600">Chittagong University Environmental Law Students&apos; Association</p>
           </div>
 
           {/* Mission & Vision Section */}
